@@ -111,17 +111,17 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 ~~~
 
 ## OUTPUT:
-# ADVERSAL POLICY
+### ADVERSAL POLICY
 
-![image](https://github.com/user-attachments/assets/30a90d0a-d803-4baa-8de1-7b1888a46add)
-![image](https://github.com/user-attachments/assets/f27ffeb0-8a4b-40df-820b-36b813923e59)
+![image](https://github.com/user-attachments/assets/5bb5d6c0-1c29-46d4-a30a-a58c99e989ee)
+
+![image](https://github.com/user-attachments/assets/46ff44fe-a555-41f3-a497-e46fe14b3e39)
 
 
+### Optimal Policy with Gamma = 0.90
 
-# Optimal Policy with Gamma = 0.90
+![image](https://github.com/user-attachments/assets/f63d7b6f-6c00-4d6e-bef0-55b801c80fa5)
 
-![image](https://github.com/user-attachments/assets/aa6b83b4-8257-488b-8b63-b811b4ce2b0a)
-![image](https://github.com/user-attachments/assets/4f7859d6-7bf3-42a7-82e6-fc5d424196a0)
 
 
 ## RESULT:
